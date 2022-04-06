@@ -1,0 +1,44 @@
+#h2{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+#button{
+    border:none
+    
+}
+#increment-btn{
+    padding: 16px 20px;
+    border:2px solid black;
+    background-color:brown;
+    color:white;
+    margin: 17px;
+    font: size 1.6rem;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+#save-btn{
+    padding: 16px 20px;
+    border:2px solid black;
+    background-color:blue;
+    color:white;
+    margin: 17px;
+    font: size 1.6rem;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+#home{
+    text-align: center;
+    
+}
+
+#home p{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#home h1{
+    color: blue;
+}
+
